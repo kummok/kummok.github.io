@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "목이의 생각 남기기"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "목이"
+description              : "About Interesting Things."
 url                      : "https://kummok.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
